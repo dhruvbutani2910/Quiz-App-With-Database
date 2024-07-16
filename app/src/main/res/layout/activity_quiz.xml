@@ -74,7 +74,7 @@
             android:id="@+id/btn0"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginVertical="@dimen/_sdp"
+            android:layout_marginVertical="@dimen/_9sdp"
             android:backgroundTint="@color/gray"
             android:gravity="center_vertical"
             android:paddingVertical="@dimen/_10sdp"
