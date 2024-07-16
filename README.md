@@ -16,7 +16,7 @@ Kotlin, XML
 - Responsive Layout
 
 ## Apk Download (Test)
-https://drive.google.com/file/d/1w1n4H2D_zGFI5-Op8FaOQ_AA1PA9tVSw/view?usp=sharing
+https://www.dropbox.com/scl/fi/k70f4ha0ksi76m5znvycd/Quizs.apk?rlkey=7tvm9zutqkb4122umc7aipzzf&st=1e3ubuf0&dl=0
 
 
 ## Preview
