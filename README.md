@@ -16,7 +16,7 @@ Kotlin, XML
 - Responsive Layout
 
 ## Apk Download (Test)
-https://we.tl/t-iH0niZrlXB
+https://we.tl/t-McU6Wg4I6G
 
 
 ## Preview
