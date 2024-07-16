@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="@dimen/_16sdp"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Congrats! You Have Passed"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:id="@+id/score_title"/>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <com.google.android.material.progressindicator.CircularProgressIndicator
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/score_progress_Indicator"
+            android:layout_centerVertical="true"
+            app:trackColor="@color/gray"
+            android:progress="60"
+            app:trackCornerRadius="@dimen/_20sdp"
+            app:indicatorSize="@dimen/_90sdp"
+            app:trackThickness="@dimen/_8sdp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="50%"
+            android:textSize="18sp"
+            android:layout_centerInParent="true"
+            android:textStyle="bold"
+            android:id="@+id/score_progress_text"/>
+
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="6 out of 10 questions are correct"
+        android:gravity="center"
+        android:layout_margin="@dimen/_8sdp"
+        android:id="@+id/score_subtitle"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Finish"
+        android:layout_margin="@dimen/_8sdp"
+        android:id="@+id/finish_btn"/>
+
+
+
+</LinearLayout>

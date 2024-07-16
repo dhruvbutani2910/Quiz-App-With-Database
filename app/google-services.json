@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "392280292070",
+    "project_id": "quizs-cdaf2",
+    "storage_bucket": "quizs-cdaf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392280292070:android:8fb3aa01d9643964db9927",
+        "android_client_info": {
+          "package_name": "com.example.quizs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwXJDWfCQxkif_CoT_7L3IOFNXL4omg2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
