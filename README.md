@@ -13,19 +13,23 @@ Kotlin, XML
 - Database Implimentation
 - Login & Signup
 - Reset Password
-- Material UI Design
+- Responsive Layout
 
-## Apk Download
-https://www.mediafire.com/file/hc0z3juv1qliqm4/Quizs.apk/file
+## Apk Download (Test)
+https://we.tl/t-iH0niZrlXB
 
 
 ## Preview
-![1721073465139](https://github.com/user-attachments/assets/0af3bf09-68e1-41fc-8005-941800ea0fd2)
-![1721069580651](https://github.com/user-attachments/assets/57224bdd-d1d3-4d3d-845f-3b8ba5db75dd)
-![1721073677990](https://github.com/user-attachments/assets/3ade4f7c-3fb4-40ac-8d28-baa268b57d44)
-![1721069550519](https://github.com/user-attachments/assets/dccde54d-ffe0-4967-bed1-0341cc29d0a8)
-![1721069538046](https://github.com/user-attachments/assets/bd657b4d-ac2d-4f21-aa52-24c4e1dc50bb)
-![1721074636444](https://github.com/user-attachments/assets/69373424-7734-47fa-8f5c-0d1494cca7d3)
+![1721155663081](https://github.com/user-attachments/assets/97919287-83aa-4a03-a563-8e5895ff66fe)
+![1721155681534](https://github.com/user-attachments/assets/7893eaed-1b6e-4cf0-b54a-8467735786f7)
+![1721155733095](https://github.com/user-attachments/assets/2a3f5e7a-3b99-4edd-9d0d-c34a1c8836ff)
+![1721156100451](https://github.com/user-attachments/assets/ef271fe7-b947-424b-9e74-3b39f4d46469)
+![1721155696665](https://github.com/user-attachments/assets/32a09079-a4fb-4b68-80fb-99166cb5f882)
+![1721155688217](https://github.com/user-attachments/assets/b7f18644-ded6-4890-83b7-2340ec4d96b3)
+
+
+
+
 
 
 
